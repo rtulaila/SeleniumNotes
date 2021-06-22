@@ -6,7 +6,7 @@ package selpackage;
 		public static void main(String[] args)  {
 	
 			System.out.println("Future TestCase");
-
+			System.out.println("Merge this code");
 		}
 
 	}
