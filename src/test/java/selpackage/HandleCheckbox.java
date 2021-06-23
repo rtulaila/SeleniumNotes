@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class SeleniumTest02 {
+public class HandleCheckbox {
 
 	public static void main(String[] args) 
 	{
